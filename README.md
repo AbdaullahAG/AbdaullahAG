@@ -2,7 +2,7 @@
 ### 🛡️ Cybersecurity & Network Engineer | AI & LLM Security Researcher
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-Final--Year%20Student%20%40%20WISE-blue?style=flat-square" alt="Status" />
+  <a href="https://linkedin.com/in/Abdallah Abu Ghallous"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20LLM%20Security%20Research-red?style=flat-square" alt="Focus" />
   <img src="https://img.shields.io/badge/Trainee-NCSC%20Jordan-darkgreen?style=flat-square" alt="NCSC" />
 </p>
@@ -10,50 +10,46 @@
 ---
 
 ## 🚀 About Me
-I am a passionate Cybersecurity and Network Systems explorer, specialized in **Adversarial Machine Learning Research** and **LLM Security Gateways**. With hands-on experience from **Jordan's National Cyber Security Center (NCSC)** and multiple AI hackathons, I bridge the gap between robust network infrastructure and next-gen AI defense mechanisms.
-
-- 🧠 Currently researching **LLM Red Teaming**, prompt injection mitigations, and autonomous multi-agent defense.
-- 🛠️ Author of **SemGuard**, a multilingual LLM security gateway.
-- 🏆 1st place in the AI Track & Best Research Paper at ISPC.
-
----
-
-## 🛠️ Tech Stack & Skills
-
-### 🤖 AI & LLM Security Research
-![LLM Security](https://img.shields.io/badge/LLM%20Security-Adversarial%20ML-red?style=for-the-badge&logo=openai&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-AutoGen%20%7C%20LangChain-orange?style=for-the-badge&logo=ai&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🔒 Cyber Defense & Networking
-![Penetration Testing](https://img.shields.io/badge/PenTesting-Kali%20Linux-blue?style=for-the-badge&logo=kalilinux&logoColor=white)
-![SOC Analysis](https://img.shields.io/badge/SOC-Splunk%20SIEM-black?style=for-the-badge&logo=splunk&logoColor=red)
-![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-Snort%203-gree?style=for-the-badge)
-![Cisco](https://img.shields.io/badge/Networking-CCNA%20%7C%20OSPF%20%7C%20VLANs-049ca4?style=for-the-badge&logo=cisco&logoColor=white)
+I am a Computer Networks & Cybersecurity student specialized in **Adversarial Machine Learning Research** and **LLM Security Gateways**. 
+- 🧠 Researching **LLM Red Teaming** & autonomous multi-agent defense[cite: 1].
+- 🛠️ Author of **SemGuard**, a multilingual LLM security gateway[cite: 1].
+- 🏆 1st place in the AI Track & Best Research Paper at ISPC[cite: 1].
 
 ---
 
-## 📊 GitHub Analytics & Insights
+## 🛠️ Tech Stack (Skills)
+<table>
+  <tr>
+    <td><b>🤖 AI & LLM Security</b></td>
+    <td><code>LLM Security</code> <code>Adversarial ML</code> <code>AI Agents</code> <code>Python</code> <code>FastAPI</code></td>
+  </tr>
+  <tr>
+    <td><b>🔒 Cyber & Networks</b></td>
+    <td><code>PenTesting</code> <code>SOC (Splunk)</code> <code>Snort 3</code> <code>CCNA</code> <code>Linux</code></td>
+  </tr>
+</table>
 
+---
+
+## 📊 Analytics & Insights (Compact & Dynamic)
+
+<!-- وضع البطاقات بجانب بعضها لتقليل المساحة الرأسية وإضافة التفاعل -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdaullahAG&show_icons=true&theme=tokyonight&count_private=true" alt="Abdallah's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdaullahAG&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdaullahAG&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&hide_rank=false" width="49%" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdaullahAG&layout=compact&theme=tokyonight&hide_title=true" width="49%" alt="Languages" />
 </p>
 
-### 🔥 Contribution Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdaullahAG&theme=tokyonight" alt="GitHub Streak" width="98%" />
+  <!-- بطاقة متحركة وديناميكية لمعدل الاستمرارية بحجم صغير -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdaullahAG&theme=tokyonight&hide_border=true&background=dd000000" width="100%" alt="Streak" />
 </p>
 
 ---
 
-## 🔗 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/Abdallah Abu Ghallous" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:abd.moh9999@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-Yahoo!-%236001d2.svg?style=for-the-badge&logo=Yahoo!&logoColor=white" alt="Email" />
-  </a>
+<!-- سطر متحرك تفاعلي صغير في نهاية البروفايل يوضح لغات البرمجة بحركة أنيقة -->
+<p align="center">
+  <img src="https://decent-custom-badges.vercel.app/b/python/14354C/white?style=flat-square" />
+  <img src="https://decent-custom-badges.vercel.app/b/docker/0db7ed/white?style=flat-square" />
+  <img src="https://decent-custom-badges.vercel.app/b/splunk/black/red?style=flat-square" />
+  <img src="https://decent-custom-badges.vercel.app/b/linux/darkgray/white?style=flat-square" />
 </p>
