@@ -26,9 +26,9 @@
 
 | Project | Stack | What it does |
 |---|---|---|
-| 🛡️ **SemGuard** | `LLM Security` `Multilingual` | Security gateway guarding LLMs against prompt-injection & semantic attacks |
-| 🥷 **Autonomous AI Red/Blue Lab** | `AutoGen` `GPT-4o` `GPT-5.2` | Closed-loop multi-agent lab — AI Red Team exploits, AI Blue Team self-heals code |
-| 🔐 **TrustGuard AI** | `Multi-Agent` `Flask` | 6-agent reasoning pipeline auditing Privacy Policies/ToS vs. TikTok, Meta, WhatsApp |
+|  **ThreatLens v2.0** | `Automation` `CLI Tool` `threat-intelligence` | Python CLI tool for rapid IOC analysis|
+|  **Autonomous AI Red/Blue Lab** | `AutoGen` `GPT-4o` `GPT-5.2` | Closed-loop multi-agent lab — AI Red Team exploits, AI Blue Team self-heals code |
+|  **TrustGuard AI** | `Multi-Agent` `Flask` | 6-agent reasoning pipeline auditing Privacy Policies/ToS vs. TikTok, Meta, WhatsApp |
 
 <div align="center">
 
