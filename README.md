@@ -17,7 +17,7 @@
 
 - 🎓 Final-year **Computer Networks & Cybersecurity** student — WISE University
 - 🧪 Trainee @ Jordan **National Cyber Security Center (NCSC)** — Masar Program (Red/Blue/GRC)
-- 🤖 Author of **SemGuard** — multilingual LLM security gateway
+- 🤖 Author of **SemGuard** — multilingual LLM security gateway (soon publish)
 - 🔭 Focus: **LLM Security · Adversarial ML · Pentesting · SOC Analysis**
 
 ---
@@ -26,9 +26,9 @@
 
 | Project | Stack | What it does |
 |---|---|---|
-|  **ThreatLens v2.0** | `Automation` `CLI Tool` `threat-intelligence` | Python CLI tool for rapid IOC analysis|
-|  **Autonomous AI Red/Blue Lab** | `AutoGen` `GPT-4o` `GPT-5.2` | Closed-loop multi-agent lab — AI Red Team exploits, AI Blue Team self-heals code |
-|  **TrustGuard AI** | `Multi-Agent` `Flask` | 6-agent reasoning pipeline auditing Privacy Policies/ToS vs. TikTok, Meta, WhatsApp |
+| 🛡️ **SemGuard** | `LLM Security` `Multilingual` | Security gateway guarding LLMs against prompt-injection & semantic attacks (Coming soon) |
+| 🥷 **Autonomous AI Red/Blue Lab** | `AutoGen` `GPT-4o` `GPT-5.2` | Closed-loop multi-agent lab — AI Red Team exploits, AI Blue Team self-heals code |
+| 🔐 **TrustGuard AI** | `Multi-Agent` `Flask` | 6-agent reasoning pipeline auditing Privacy Policies/ToS vs. TikTok, Meta, WhatsApp |
 
 <div align="center">
 
@@ -48,7 +48,7 @@
 |---|---|---|
 | 🔎 **ThreatLens** | `Python` `SOAR` `REST APIs` | IOC enrichment across 6 APIs (AbuseIPDB, VirusTotal, Shodan, OTX, URLScan, NVD) |
 | 🧬 **Red/Blue Team Lab** | `Flask` `Splunk` `Kali Linux` | Exploited & patched SQLi/XSS/Cmd-Injection on a 3-VM lab + Splunk HEC detections |
-| 📡 **NIDS/NIPS — Snort 3** | `Snort 3` | Custom rules detecting & blocking live attack traffic |
+| 📡 **NIDS/NIPS** | `Snort 3` | Custom rules detecting & blocking live attack traffic |
 | 🌐 **Enterprise Network (CCNA)** | `OSPF` `VLANs` `Packet Tracer` | Smart Campus graduation project — enterprise routing & switching security |
 | 🛣️ **Rased** | `YOLOv11` `TFLite` | Road-defect computer-vision detector — Crown Prince Award entry |
 
