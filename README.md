@@ -111,9 +111,9 @@
 
 ### 🎖️ Certifications
 
-![OCI AI](https://img.shields.io/badge/OCI-AI%20Foundations%20Associate-f7768e?style=flat-square&logo=oracle&logoColor=white&labelColor=1a1b27)
-![OCI Arch](https://img.shields.io/badge/OCI-Architect%20Associate-ff9e64?style=flat-square&logo=oracle&logoColor=white&labelColor=1a1b27)
-![OCI Found](https://img.shields.io/badge/OCI-Foundations%20Associate-bb9af7?style=flat-square&logo=oracle&logoColor=white&labelColor=1a1b27)
+![OCI AI](https://img.shields.io/badge/Oracle-AI%20Foundations%20Associate-f7768e?style=flat-square&logo=oracle&logoColor=white&labelColor=1a1b27)
+![OCI Arch](https://img.shields.io/badge/Oracle-Architect%20Associate-ff9e64?style=flat-square&logo=oracle&logoColor=white&labelColor=1a1b27)
+![OCI Found](https://img.shields.io/badge/Oracle-Foundations%20Associate-bb9af7?style=flat-square&logo=oracle&logoColor=white&labelColor=1a1b27)
 ![FCF](https://img.shields.io/badge/Fortinet-FCF-7aa2f7?style=flat-square&logo=fortinet&logoColor=white&labelColor=1a1b27)
 ![FCA](https://img.shields.io/badge/Fortinet-FCA-2ac3de?style=flat-square&logo=fortinet&logoColor=white&labelColor=1a1b27)
 ![CCNA](https://img.shields.io/badge/CCNA-Curriculum%20Completed-9ece6a?style=flat-square&logo=cisco&logoColor=white&labelColor=1a1b27)
