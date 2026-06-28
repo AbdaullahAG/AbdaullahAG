@@ -52,6 +52,7 @@
 
 ---
 
+<!-- شريط تقنيات متحرك وجميل في النهاية لإنهاء الصفحة بشكل نظيف -->
 <p align="center">
   <img src="https://decent-custom-badges.vercel.app/b/python/14354C/white?style=flat-square" />
   <img src="https://decent-custom-badges.vercel.app/b/docker/0db7ed/white?style=flat-square" />
