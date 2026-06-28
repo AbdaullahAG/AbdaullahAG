@@ -1,61 +1,134 @@
-# Hi, I'm Abdallah Abughallous 🚀
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=620&lines=Cybersecurity+%26+Network+Engineer;AI+%26+LLM+Security+Researcher;Building+SemGuard+%7C+TrustGuard+AI;Red+Team+%E2%9A%94%EF%B8%8F+%7C+Blue+Team+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdallah%20Abu%20Ghallous-7aa2f7?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1b27)](https://www.linkedin.com/in/abdallah-abu-ghallous)
+[![Email](https://img.shields.io/badge/Email-abd.moh9999%40yahoo.com-bb9af7?style=flat-square&logo=yahoo&logoColor=white&labelColor=1a1b27)](mailto:abd.moh9999@yahoo.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-AbdallahAbughallous.com-9ece6a?style=flat-square&logo=googlechrome&logoColor=white&labelColor=1a1b27)](https://abdallahabughallous.com)
+[![GitHub](https://img.shields.io/badge/GitHub-AbdaullahAG-2ac3de?style=flat-square&logo=github&logoColor=white&labelColor=1a1b27)](https://github.com/AbdaullahAG)
+
+</div>
+
+---
+
+### 🛡️ `whoami`
+
+- 🎓 Final-year **Computer Networks & Cybersecurity** student — WISE University
+- 🧪 Trainee @ Jordan **National Cyber Security Center (NCSC)** — Masar Program (Red/Blue/GRC)
+- 🤖 Author of **SemGuard** — multilingual LLM security gateway
+- 🔭 Focus: **LLM Security · Adversarial ML · Pentesting · SOC Analysis**
+
+---
+
+### 🤖 AI & LLM Security — Featured Work
+
+| Project | Stack | What it does |
+|---|---|---|
+| 🛡️ **SemGuard** | `LLM Security` `Multilingual` | Security gateway guarding LLMs against prompt-injection & semantic attacks |
+| 🥷 **Autonomous AI Red/Blue Lab** | `AutoGen` `GPT-4o` `GPT-5.2` | Closed-loop multi-agent lab — AI Red Team exploits, AI Blue Team self-heals code |
+| 🔐 **TrustGuard AI** | `Multi-Agent` `Flask` | 6-agent reasoning pipeline auditing Privacy Policies/ToS vs. TikTok, Meta, WhatsApp |
+
+<div align="center">
+
+![LLM Security](https://img.shields.io/badge/LLM%20Security-f7768e?style=flat-square&logo=openai&logoColor=white&labelColor=1a1b27)
+![Adversarial ML](https://img.shields.io/badge/Adversarial%20ML-ff9e64?style=flat-square&logo=pytorch&logoColor=white&labelColor=1a1b27)
+![Prompt Injection Defense](https://img.shields.io/badge/Prompt%20Injection%20Defense-bb9af7?style=flat-square&logo=shieldsdotio&logoColor=white&labelColor=1a1b27)
+![Multi Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-7aa2f7?style=flat-square&logo=robotframework&logoColor=white&labelColor=1a1b27)
+![Red Team AI](https://img.shields.io/badge/Red%20Team%20AI-9ece6a?style=flat-square&logo=hackthebox&logoColor=white&labelColor=1a1b27)
+
+</div>
+
+---
+
+### ⚔️ Offensive / Defensive Security Projects
+
+| Project | Stack | Highlight |
+|---|---|---|
+| 🔎 **ThreatLens** | `Python` `SOAR` `REST APIs` | IOC enrichment across 6 APIs (AbuseIPDB, VirusTotal, Shodan, OTX, URLScan, NVD) |
+| 🧬 **Red/Blue Team Lab** | `Flask` `Splunk` `Kali Linux` | Exploited & patched SQLi/XSS/Cmd-Injection on a 3-VM lab + Splunk HEC detections |
+| 📡 **NIDS/NIPS — Snort 3** | `Snort 3` | Custom rules detecting & blocking live attack traffic |
+| 🌐 **Enterprise Network (CCNA)** | `OSPF` `VLANs` `Packet Tracer` | Smart Campus graduation project — enterprise routing & switching security |
+| 🛣️ **Rased** | `YOLOv11` `TFLite` | Road-defect computer-vision detector — Crown Prince Award entry |
+
+---
 
 <p align="left">
-  <a href="https://linkedin.com/in/Abdallah Abu Ghallous"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20LLM%20Security%20Research-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Trainee-NCSC%20Jordan-darkgreen?style=flat-square" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbdaullahAG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdaullahAG&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="left">
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdaullahAG&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🛡️ Core Expertise
+### 🧰 Arsenal
+
 <table>
-  <tr>
-    <td align="center" width="110px"><b>AI Security</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/LLM_Security-red?style=flat-square" />
-      <img src="https://img.shields.io/badge/Adversarial_ML-orange?style=flat-square" />
-      <img src="https://img.shields.io/badge/AI_Agents-yellow?style=flat-square" />
-      <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Cyber Defense</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PenTesting-blue?style=flat-square&logo=kali-linux&logoColor=white" />
-      <img src="https://img.shields.io/badge/Splunk_SIEM-black?style=flat-square&logo=splunk&logoColor=red" />
-      <img src="https://img.shields.io/badge/Snort_3-green?style=flat-square" />
-      <img src="https://img.shields.io/badge/CCNA_Network-049ca4?style=flat-square&logo=cisco&logoColor=white" />
-    </td>
-  </tr>
+<tr><td><b>🛡️ Security</b></td><td>
+
+![Pentesting](https://img.shields.io/badge/Penetration%20Testing-1a1b27?style=flat-square&logo=metasploit&logoColor=f7768e)
+![SOC](https://img.shields.io/badge/SOC%20Analysis-1a1b27?style=flat-square&logo=splunk&logoColor=ff9e64)
+![MITRE](https://img.shields.io/badge/MITRE%20ATT%26CK-1a1b27?style=flat-square&logo=mitre&logoColor=bb9af7)
+![Wireshark](https://img.shields.io/badge/Wireshark-1a1b27?style=flat-square&logo=wireshark&logoColor=7aa2f7)
+![Nmap](https://img.shields.io/badge/Nmap-1a1b27?style=flat-square&logo=nmap&logoColor=9ece6a)
+![Snort](https://img.shields.io/badge/IDS%2FIPS%20Snort-1a1b27?style=flat-square&logo=snort&logoColor=2ac3de)
+
+</td></tr>
+<tr><td><b>🌐 Networking</b></td><td>
+
+![OSPF](https://img.shields.io/badge/OSPF-1a1b27?style=flat-square&logo=cisco&logoColor=7aa2f7)
+![BGP](https://img.shields.io/badge/BGP-1a1b27?style=flat-square&logo=cisco&logoColor=bb9af7)
+![VLANs](https://img.shields.io/badge/VLANs-1a1b27?style=flat-square&logo=cisco&logoColor=9ece6a)
+![GNS3](https://img.shields.io/badge/GNS3-1a1b27?style=flat-square&logo=gns3&logoColor=f7768e)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-1a1b27?style=flat-square&logo=internetexplorer&logoColor=ff9e64)
+
+</td></tr>
+<tr><td><b>💻 Programming</b></td><td>
+
+![Python](https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=7aa2f7)
+![Bash](https://img.shields.io/badge/Bash-1a1b27?style=flat-square&logo=gnubash&logoColor=9ece6a)
+![Flask](https://img.shields.io/badge/Flask-1a1b27?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1b27?style=flat-square&logo=fastapi&logoColor=2ac3de)
+![SQL](https://img.shields.io/badge/MySQL-1a1b27?style=flat-square&logo=mysql&logoColor=bb9af7)
+
+</td></tr>
+<tr><td><b>☁️ Cloud & OS</b></td><td>
+
+![OCI](https://img.shields.io/badge/Oracle%20Cloud-1a1b27?style=flat-square&logo=oracle&logoColor=f7768e)
+![Azure](https://img.shields.io/badge/MS%20Azure-1a1b27?style=flat-square&logo=microsoftazure&logoColor=7aa2f7)
+![Kali](https://img.shields.io/badge/Kali%20Linux-1a1b27?style=flat-square&logo=kalilinux&logoColor=9ece6a)
+![WinServer](https://img.shields.io/badge/Windows%20Server-1a1b27?style=flat-square&logo=windows&logoColor=ff9e64)
+![Splunk](https://img.shields.io/badge/Splunk%20SIEM-1a1b27?style=flat-square&logo=splunk&logoColor=2ac3de)
+
+</td></tr>
 </table>
 
 ---
 
-## 🏆 Featured Innovations
-* 🛠️ **SemGuard** · Multilingual LLM Security Gateway
-* 🤖 **Autonomous AI Lab** · Multi-agent Red/Blue team simulator using GPT-4o & GPT-5.2[cite: 1]
-* 🧠 **TrustGuard AI** · Multi-Agent Privacy Policy Analyzer (Microsoft Hackathon)[cite: 1]
+### 🎖️ Certifications
+
+![OCI AI](https://img.shields.io/badge/OCI-AI%20Foundations%20Associate-f7768e?style=flat-square&logo=oracle&logoColor=white&labelColor=1a1b27)
+![OCI Arch](https://img.shields.io/badge/OCI-Architect%20Associate-ff9e64?style=flat-square&logo=oracle&logoColor=white&labelColor=1a1b27)
+![OCI Found](https://img.shields.io/badge/OCI-Foundations%20Associate-bb9af7?style=flat-square&logo=oracle&logoColor=white&labelColor=1a1b27)
+![FCF](https://img.shields.io/badge/Fortinet-FCF-7aa2f7?style=flat-square&logo=fortinet&logoColor=white&labelColor=1a1b27)
+![FCA](https://img.shields.io/badge/Fortinet-FCA-2ac3de?style=flat-square&logo=fortinet&logoColor=white&labelColor=1a1b27)
+![CCNA](https://img.shields.io/badge/CCNA-Curriculum%20Completed-9ece6a?style=flat-square&logo=cisco&logoColor=white&labelColor=1a1b27)
+![CDAP](https://img.shields.io/badge/CDAP-Defense%20Analyst%20Pathway-f7768e?style=flat-square&logo=cisco&logoColor=white&labelColor=1a1b27)
 
 ---
 
-## 📊 Analytics & Activity (Compact)
+### 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdaullahAG&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&hide_rank=false" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdaullahAG&layout=compact&theme=tokyonight&hide_title=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdaullahAG&theme=tokyonight&hide_border=true&background=dd000000" width="98%" />
-</p>
+🥇 IEEE CTF 2025 Finalist &nbsp;|&nbsp; 🏅 Huawei ICT National Qualifier &nbsp;|&nbsp; 🥇 IJSPC 1st Place (AI Track) + Best Research Paper Ambassador &nbsp;|&nbsp; 🔝 AAU AI & Robotics Top 60/300+
 
 ---
 
-<!-- شريط تقنيات متحرك وجميل في النهاية لإنهاء الصفحة بشكل نظيف -->
-<p align="center">
-  <img src="https://decent-custom-badges.vercel.app/b/python/14354C/white?style=flat-square" />
-  <img src="https://decent-custom-badges.vercel.app/b/docker/0db7ed/white?style=flat-square" />
-  <img src="https://decent-custom-badges.vercel.app/b/splunk/black/red?style=flat-square" />
-  <img src="https://decent-custom-badges.vercel.app/b/linux/darkgray/white?style=flat-square" />
-</p>
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=AbdaullahAG&color=7aa2f7&style=flat-square&label=Profile+Views)
+
+</div>
