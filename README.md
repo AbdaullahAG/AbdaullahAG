@@ -17,11 +17,11 @@
 
 ### 🛡️ `whoami`
 
-- 🎓 Final-year **Computer Networks & Cybersecurity** student — WISE University
-- 🧪 Trainee @ Jordan **National Cyber Security Center (NCSC)** — Masar Program (Red/Blue/GRC)
+- 🎓 Computer Networks & Cybersecurity Graduate | WISE University
+- 💻 Former Trainee @ Jordan **National Cyber Security Center (NCSC)** — Masar Program (Red/Blue/GRC)
 - 🤖 Author of **SemGuard** — multilingual LLM security gateway (Accepted For AEECT and will soon publih)
 - 🧬 Currently red-teaming LLM agents & hardening **SemGuard v2**
-- 🔭 Focus: **LLM Security · Adversarial ML · Pentesting · SOC Analysis**
+- 🔭 Focus: **LLM & AI Security · Adversarial ML · Pentesting · SOC Analysis**
 
 ---
 
