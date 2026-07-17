@@ -20,7 +20,7 @@
 - 🎓 Computer Networks & Cybersecurity Graduate | WISE University
 - 💻 Former Trainee @ Jordan **National Cyber Security Center (NCSC)** — Masar Program (Red/Blue/GRC)
 - 🤖 Author of **SemGuard** — multilingual LLM security gateway (Accepted For AEECT and will soon publih)
-- 🔎 Creator of **ThreatLens** — officially featured in the global[![Awesome](https://awesome.re/badge.svg)](https://github.com/jivoi/awesome-osint)repo(27.5k+ ⭐)
+- 🔎 Creator of **ThreatLens** — officially featured in the global [![Awesome](https://awesome.re/badge.svg)](https://github.com/jivoi/awesome-osint) repo(27.5k+ ⭐)
 - 🧬 Currently red-teaming LLM agents & hardening **SemGuard v2**
 - 🔭 Focus: **LLM & AI Security · Adversarial ML · Pentesting · SOC Analysis**
 
