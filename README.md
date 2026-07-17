@@ -49,7 +49,7 @@
 
 | Project | Stack | Highlight |
 |---|---|---|
-| 🔎 | 🔎 **ThreatLens** | `Python` `SOAR` `REST APIs` | [![Awesome](https://img.shields.io/badge/Awesome--OSINT-Featured-7aa2f7?style=flat-square&logo=github)](https://github.com/jivoi/awesome-osint) <br> IOC enrichment across 6 APIs (AbuseIPDB, VirusTotal, Shodan, OTX, URLScan, NVD) |
+| 🔎 **ThreatLens** | `Python` `SOAR` `REST APIs` | [![Awesome](https://img.shields.io/badge/Awesome--OSINT-Featured-7aa2f7?style=flat-square&logo=github)](https://github.com/jivoi/awesome-osint) <br> IOC enrichment across 6 APIs (AbuseIPDB, VirusTotal, Shodan, OTX, URLScan, NVD) |
 | 🧬 **Red/Blue Team Lab** | `Flask` `Splunk` `Kali Linux` | Exploited & patched SQLi/XSS/Cmd-Injection on a 3-VM lab + Splunk HEC detections |
 | 📡 **NIDS/NIPS ** | `Snort 3` | Custom rules detecting & blocking live attack traffic |
 | 🌐 **Enterprise Network (CCNA)** | `OSPF` `VLANs` `Packet Tracer` | Smart Campus graduation project — enterprise routing & switching security |
