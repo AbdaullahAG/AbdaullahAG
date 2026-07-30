@@ -19,7 +19,7 @@
 
 - 🎓 Computer Networks & Cybersecurity Graduate | WISE University
 - 💻 Former Trainee @ Jordan **National Cyber Security Center (NCSC)** — Masar Program (Red/Blue/GRC)
-- 🤖 Author of **SemGuard** — multilingual LLM security gateway (Accepted For AEECT and will soon publih)
+- 🤖 Author of **SemGuard** — multilingual LLM security gateway, published in **IEEE AEECT 2026** *(IEEE Xplore indexing forthcoming)*
 - 🔎 Creator of **ThreatLens** — officially featured in the global [![Awesome](https://awesome.re/badge.svg)](https://github.com/jivoi/awesome-osint) repo(27.5k+ ⭐)
 - 🧬 Currently red-teaming LLM agents & hardening **SemGuard v2**
 - 🔭 Focus: **LLM & AI Security · Adversarial ML · Pentesting · SOC Analysis**
@@ -30,7 +30,7 @@
 
 | Project | Stack | What it does |
 |---|---|---|
-| 🛡️ **SemGuard** | `LLM Security` `Multilingual` | Security gateway guarding LLMs against prompt-injection & semantic attacks (ComingSoon) |
+| 🛡️ **SemGuard** | `LLM Security` `Multilingual` | Triple-Anchor semantic security gateway guarding LLMs against prompt-injection & semantic attacks across Arabic, Arabizi & English — **0.989 F1 · 0.991 Recall** on Arabic prompt-injection detection, validated on an 807-sample Arabic LLM Security Dataset (Fleiss' κ = 0.839). [🤗 https://huggingface.co/datasets/AG-31625874/SemGuard-Dataset](#) |
 | 🥷 **Autonomous AI Red/Blue Lab** | `AutoGen` `GPT-4o` `GPT-5.2` | Closed-loop multi-agent lab — AI Red Team exploits, AI Blue Team self-heals code |
 | 🔐 **TrustGuard AI** | `Multi-Agent` `Flask` | 6-agent reasoning pipeline auditing Privacy Policies/ToS vs. TikTok, Meta, WhatsApp |
 
@@ -43,6 +43,18 @@
 ![Red Team AI](https://img.shields.io/badge/Red%20Team%20AI-9ece6a?style=flat-square&logo=hackthebox&logoColor=white&labelColor=1a1b27)
 
 </div>
+
+---
+
+### 📄 Publications
+
+**SemGuard: A Triple-Anchor Semantic Security Gateway for Multilingual Prompt Attack Detection in Large Language Models**
+
+📍 IEEE AEECT 2026 Conference Proceedings *(IEEE Xplore indexing forthcoming)*
+👤 Abdullah M. Abughallous, Dr. Somia Abufakher
+🔑 Proposed the first Triple-Anchor Semantic Threat Modeling framework for multilingual LLM security, built on the first Arabic prompt-attack dataset validated by three independent LLM judges.
+
+`LLM Security` `Prompt Injection` `AI Security` `Arabic NLP` `Explainable AI`
 
 ---
 
