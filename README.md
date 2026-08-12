@@ -23,7 +23,7 @@
 - 📊 Creator of the 1st Arabic LLM Security Dataset — featured in [![Awesome](https://awesome.re/badge.svg)](https://github.com/ottosulin/awesome-ai-security#semguard)
 - 🔎 Creator of **ThreatLens** — officially featured in the global [![Awesome](https://awesome.re/badge.svg)](https://github.com/jivoi/awesome-osint) repo(27.5k+ ⭐)
 - 🔭 Focus: **LLM & AI Security · Adversarial ML · Pentesting · SOC Analysis**
-
+- 🌐 Active Open-Source Contributor | **OWASP FIASSE** *(SSEM code examples)* & Global **Awesome Lists** *(Awesome OSINT, Awesome AI Security)*
 ---
 
 ### 🤖 AI & LLM Security — Featured Work
@@ -62,6 +62,7 @@
 
 | Project | Stack | Highlight |
 |---|---|---|
+| 🐝 **OWASP FIASSE** | `Python` `OWASP` `SSEM` | [![OWASP](https://img.shields.io/badge/OWASP-Contributor-7aa2f7?style=flat-square&logo=owasp&logoColor=white)](https://github.com/OWASP/FIASSE) <br> Contributed Python security code examples showcasing SSEM attributes merged into `main` |
 | 🔎 **ThreatLens** | `Python` `SOAR` `REST APIs` | [![Awesome](https://img.shields.io/badge/Awesome--OSINT-Featured-7aa2f7?style=flat-square&logo=github)](https://github.com/jivoi/awesome-osint) <br> IOC enrichment across 6 APIs (AbuseIPDB, VirusTotal, Shodan, OTX, URLScan, NVD) |
 | 🧬 **Red/Blue Team Lab** | `Flask` `Splunk` `Kali Linux` | Exploited & patched SQLi/XSS/Cmd-Injection on a 3-VM lab + Splunk HEC detections |
 | 📡 **NIDS/NIPS ** | `Snort 3` | Custom rules detecting & blocking live attack traffic |
