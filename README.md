@@ -51,7 +51,7 @@
 **SemGuard: A Triple-Anchor Semantic Security Gateway for Multilingual Prompt Attack Detection in Large Language Models**
 
 📍 IEEE AEECT 2026 Conference Proceedings *(IEEE Xplore indexing forthcoming)*
-👤 Abdullah M. Abughallous, Dr. Somia Abufakher
+👤 Abdallah M. Abughallous, Dr. Somia Abufakher
 🔑 Proposed the first Triple-Anchor Semantic Threat Modeling framework for multilingual LLM security, built on the first Arabic prompt-attack dataset validated by three independent LLM judges.
 
 `LLM Security` `Prompt Injection` `AI Security` `Arabic NLP` `Explainable AI`
