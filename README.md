@@ -2,14 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=180&section=header&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/? font=Fira+Code&size=24&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=620&lines=Cybersecurity+%26+Network+Engineer;AI+%26+LLM+Security+Researcher;Building+SemGuard+%7C+TrustGuard+AI;Red+Team+%E2%9A%94%EF%B8%8F+%7C+Blue+Team+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=620&lines=Cybersecurity+%26+Network+Engineer;AI+%26+LLM+Security+Researcher;Building+SemGuard+%7C+TrustGuard+AI;Red+Team+%E2%9A%94%EF%B8%8F+%7C+Blue+Team+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 
 <br>
- 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdallah%20Abu%20Ghallous-7aa2f7?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1b27)](https://www.linkedin.com/in/abdallah-abu-ghallous)
 [![Email](https://img.shields.io/badge/Email-abd.moh9999%40yahoo.com-bb9af7?style=flat-square&logo=yahoo&logoColor=white&labelColor=1a1b27)](mailto:abd.moh9999@yahoo.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-AbdallahAbughallous.com-9ece6a?style=flat-square&logo=googlechrome&logoColor=white&labelColor=1a1b27)](https://abdallahabughallous.com)
 [![GitHub](https://img.shields.io/badge/GitHub-AbdaullahAG-2ac3de?style=flat-square&logo=github&logoColor=white&labelColor=1a1b27)](https://github.com/AbdaullahAG)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0001--9492--4735-a6ce39?style=flat-square&logo=orcid&logoColor=white&labelColor=1a1b27)](https://orcid.org/0009-0001-9492-4735)
+[![IEEE Xplore](https://img.shields.io/badge/IEEE%20Xplore-Read%20Paper-00629B?style=flat-square&logo=ieee&logoColor=white&labelColor=1a1b27)](https://doi.org/10.1109/AEECT69724.2026.11657880)
 
 </div>
 
@@ -19,18 +21,19 @@
 
 - 🎓 Computer Networks & Cybersecurity Graduate | WISE University
 - 💻 Former Trainee @ Jordan **National Cyber Security Center (NCSC)** — Masar Program (Red/Blue/GRC)
-- 🛡️ Author of **SemGuard** — multilingual LLM security gateway, published in **IEEE AEECT 2026** *(IEEE Xplore indexing forthcoming)*
+- 🛡️ Author of **SemGuard** — multilingual LLM security gateway, published & indexed in **IEEE Xplore** ([IEEE AEECT 2026](https://doi.org/10.1109/AEECT69724.2026.11657880))
 - 📊 Creator of the 1st Arabic LLM Security Dataset — featured in [![Awesome](https://awesome.re/badge.svg)](https://github.com/ottosulin/awesome-ai-security#semguard)
-- 🔎 Creator of **ThreatLens** — officially featured in the global [![Awesome](https://awesome.re/badge.svg)](https://github.com/jivoi/awesome-osint) repo(27.5k+ ⭐)
+- 🔎 Creator of **ThreatLens** — officially featured in the global [![Awesome](https://awesome.re/badge.svg)](https://github.com/jivoi/awesome-osint) repo (27.5k+ ⭐)
 - 🔭 Focus: **LLM & AI Security · Adversarial ML · Pentesting · SOC Analysis**
 - 🌐 Active Open-Source Contributor | **OWASP FIASSE** *(SSEM code examples)* & Global **Awesome Lists** *(Awesome OSINT, Awesome AI Security)*
+
 ---
 
 ### 🤖 AI & LLM Security — Featured Work
 
 | Project | Stack | What it does |
 |---|---|---|
-| 🛡️ **SemGuard** | `LLM Security` `Multilingual` | Triple-Anchor semantic security gateway guarding LLMs against prompt-injection & semantic attacks across Arabic, Arabizi & English — **0.989 F1 · 0.991 Recall** on Arabic prompt-injection detection, validated on an 807-sample Arabic LLM Security Dataset (Fleiss' κ = 0.839). [https://huggingface.co/datasets/AG-31625874/SemGuard-Dataset](#) |
+| 🛡️ **SemGuard** | `LLM Security` `Multilingual` | Triple-Anchor semantic security gateway guarding LLMs against prompt-injection & semantic attacks across Arabic, Arabizi & English — **0.989 F1 · 0.991 Recall** on Arabic prompt-injection detection, validated on an 807-sample Arabic LLM Security Dataset (Fleiss' κ = 0.839). [📊 Dataset on HuggingFace](https://huggingface.co/datasets/AG-31625874/SemGuard-Dataset) |
 | 🥷 **Autonomous AI Red/Blue Lab** | `AutoGen` `GPT-4o` `GPT-5.2` | Closed-loop multi-agent lab — AI Red Team exploits, AI Blue Team self-heals code |
 | 🔐 **TrustGuard AI** | `Multi-Agent` `Flask` | 6-agent reasoning pipeline auditing Privacy Policies/ToS vs. TikTok, Meta, WhatsApp |
 
@@ -50,8 +53,9 @@
 
 **SemGuard: A Triple-Anchor Semantic Security Gateway for Multilingual Prompt Attack Detection in Large Language Models**
 
-📍 IEEE AEECT 2026 Conference Proceedings *(IEEE Xplore indexing forthcoming)*
+📍 Published & indexed in **IEEE Xplore** — [2026 IEEE Jordan Conference on Applied Electrical Engineering and Computing Technologies (AEECT)](https://doi.org/10.1109/AEECT69724.2026.11657880)
 👤 Abdallah M. Abughallous, Dr. Somia Abufakher
+🔗 DOI: [10.1109/AEECT69724.2026.11657880](https://doi.org/10.1109/AEECT69724.2026.11657880)
 🔑 Proposed the first Triple-Anchor Semantic Threat Modeling framework for multilingual LLM security, built on the first Arabic prompt-attack dataset validated by three independent LLM judges.
 
 `LLM Security` `Prompt Injection` `AI Security` `Arabic NLP` `Explainable AI`
@@ -65,7 +69,7 @@
 | 🐝 **OWASP FIASSE** | `Python` `OWASP` `SSEM` | [![OWASP](https://img.shields.io/badge/OWASP-Contributor-7aa2f7?style=flat-square&logo=owasp&logoColor=white)](https://github.com/OWASP/FIASSE) <br> Contributed Python security code examples showcasing SSEM attributes merged into `main` |
 | 🔎 **ThreatLens** | `Python` `SOAR` `REST APIs` | [![Awesome](https://img.shields.io/badge/Awesome--OSINT-Featured-7aa2f7?style=flat-square&logo=github)](https://github.com/jivoi/awesome-osint) <br> IOC enrichment across 6 APIs (AbuseIPDB, VirusTotal, Shodan, OTX, URLScan, NVD) |
 | 🧬 **Red/Blue Team Lab** | `Flask` `Splunk` `Kali Linux` | Exploited & patched SQLi/XSS/Cmd-Injection on a 3-VM lab + Splunk HEC detections |
-| 📡 **NIDS/NIPS ** | `Snort 3` | Custom rules detecting & blocking live attack traffic |
+| 📡 **NIDS/NIPS** | `Snort 3` | Custom rules detecting & blocking live attack traffic |
 | 🌐 **Enterprise Network (CCNA)** | `OSPF` `VLANs` `Packet Tracer` | Smart Campus graduation project — enterprise routing & switching security |
 | 🛣️ **Rased** | `YOLOv11` `TFLite` | Road-defect computer-vision detector — Crown Prince Award entry |
 
@@ -89,7 +93,6 @@
 ### 🐍 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/AbdaullahAG/AbdaullahAG/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
 
 ---
 
