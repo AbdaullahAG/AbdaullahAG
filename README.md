@@ -146,7 +146,7 @@
 ![CCNA](https://img.shields.io/badge/CCNA-Curriculum%20Completed-9ece6a?style=flat-square&logo=cisco&logoColor=white&labelColor=1a1b27)
 ![CDAP](https://img.shields.io/badge/CDAP-Defense%20Analyst%20Pathway-f7768e?style=flat-square&logo=cisco&logoColor=white&labelColor=1a1b27)
 
-&nbsp; 🥇 IJSPC 1st Place (AI Track) + Best Research Paper Ambassador &nbsp; | 🥇 IEEE CTF 2025 Finalist &nbsp;|&nbsp; 🏅 Huawei ICT National Qualifier &nbsp;|&nbsp; 🔝 AAU AI & Robotics Top 60/300+
+&nbsp; 🥇 IJSPC 1st Place (AI Track) + Best Research Paper Ambassador &nbsp;|&nbsp; 🥇 IEEE CTF 2025 Finalist &nbsp;|&nbsp; 🏅 Huawei ICT National Qualifier &nbsp;|&nbsp; 🥈 Top 2% TryHackMe | &nbsp; 🔝 AAU AI & Robotics Top 60/300+ 
 
 </details>
 
