@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=180&section=header&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=620&lines=Cybersecurity+%26+Network+Engineer;AI+%26+LLM+Security+Researcher;Building+SemGuard+%7C+TrustGuard+AI;Red+Team+%E2%9A%94%EF%B8%8F+%7C+Blue+Team+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=620&lines=Cybersecurity+%26+Network+Engineer;AI+%26+LLM+Security+Researcher;Building+SemGuard+%7C+ThreatLens+%7C+tawfeer-llm;Red+Team+%E2%9A%94%EF%B8%8F+%7C+Blue+Team+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 
 <br>
 
@@ -20,13 +20,14 @@
 ### 🛡️ `whoami`
 
 - 🎓 Computer Networks & Cybersecurity Graduate | WISE University
-- 💻 Former Trainee @ Jordan **National Cyber Security Center (NCSC)** — Masar Program (Red/Blue/GRC)
-- 🧑‍💻 Section Lead & Co-Author — OWASP GenAI Security Project (ASI)
-- 🛡️ Author of **SemGuard** — multilingual LLM security gateway, published & indexed in **IEEE Xplore** ([IEEE AEECT 2026](https://doi.org/10.1109/AEECT69724.2026.11657880))
+- 💻 Former Trainee @ Jordan **National Cyber Security Center (NCSC)** — Masar Program (30+ labs across Red/Blue/GRC + capstone project)
+- 🧑‍💻 Section Lead & Co-Author — OWASP GenAI Security Project, Agentic Identity Maturity Model (AIMM)
+- 🛡️ Author of **SemGuard** — multilingual LLM security gateway, published & indexed in **IEEE Xplore** ([IEEE AEECT 2026](https://doi.org/10.1109/AEECT69724.2026.11657880)) — plus 2 further preprints on LLM security (see Publications below)
 - 📊 Creator of the 1st Arabic LLM Security Dataset — featured in [![Awesome](https://awesome.re/badge.svg)](https://github.com/ottosulin/awesome-ai-security#semguard)
-- 🔎 Creator of **ThreatLens** — officially featured in the global [![Awesome](https://awesome.re/badge.svg)](https://github.com/jivoi/awesome-osint) repo (27.5k+ ⭐)
+- 🔎 Creator of **ThreatLens** — a threat-intel & CVE-triage CLI (CISA KEV + EPSS decision engine, SIEM export), officially featured in the community's [![Awesome](https://awesome.re/badge.svg)](https://github.com/jivoi/awesome-osint) list
+- 🧪 Merged contributor to **Microsoft PyRIT** — added the SemGuard Arabic Security Dataset loader to Microsoft's GenAI red-teaming framework (4.5K★)
 - 🔭 Focus: **LLM & AI Security · Adversarial ML · Pentesting · SOC Analysis**
-- 🌐 Active Open-Source Contributor | **OWASP FIASSE** *(SSEM code examples)* & **OWASP CVE Lite CLI** *(CycloneDX SBOM output)* & Global **Awesome Lists** *(Awesome OSINT, Awesome AI Security)*
+- 🌐 Active Open-Source Contributor | **OWASP FIASSE** *(SSEM code examples)* & **OWASP CVE Lite CLI** *(CycloneDX SBOM output)* & **Microsoft PyRIT** *(dataset loader)* & Global **Awesome Lists** *(Awesome OSINT, Awesome AI Security)*
 
 ---
 
@@ -35,7 +36,8 @@
 | Project | Stack | What it does |
 |---|---|---|
 | 🛡️ **SemGuard** | `LLM Security` `Multilingual` | Triple-Anchor semantic security gateway guarding LLMs against prompt-injection & semantic attacks across Arabic, Arabizi & English — **0.989 F1 · 0.991 Recall** on Arabic prompt-injection detection, validated on an 807-sample Arabic LLM Security Dataset (Fleiss' κ = 0.839). [📊 Dataset on HuggingFace](https://huggingface.co/datasets/AG-31625874/SemGuard-Dataset) |
-| 🥷 **Autonomous AI Red/Blue Lab** | `AutoGen` `GPT-4o` `GPT-5.2` | Closed-loop multi-agent lab — AI Red Team exploits, AI Blue Team self-heals code |
+| 🥷 **Autonomous AI Red/Blue Lab** | `Azure AI Foundry` `Multi-Agent` `OWASP AIMM` | Closed-loop multi-agent pipeline — real exploitation + self-healing patching, SPIFFE-style agent identity, enforced per-agent scope, SHA-256 hash-chained audit log. 70% patch-validation success, 100% chain integrity over 10 real runs. |
+| 🧮 **tawfeer-llm (ar-tokenwise)** | `Python` `PyPI Package` | Published package that conservatively normalizes Arabic text for LLM pipelines and reports *measured* (not estimated) token/cost savings against real tokenizer & provider APIs; benchmarked on FLORES-200 & TyDiQA-GoldP, with RAG-aware chunking and dialect-signal detection. |
 | 🔐 **TrustGuard AI** | `Multi-Agent` `Flask` | 6-agent reasoning pipeline auditing Privacy Policies/ToS vs. TikTok, Meta, WhatsApp |
 
 <div align="center">
@@ -61,16 +63,39 @@
 
 `LLM Security` `Prompt Injection` `AI Security` `Arabic NLP` `Explainable AI`
 
+<br>
+
+**Impersonation Ambiguity as a Security Signal: A Quantitative Framework for Role-Play vs. Malicious Impersonation Detection in LLMs**
+
+📍 Preprint — Zenodo
+👤 Abdallah M. Abughallous
+🔗 DOI: [10.5281/zenodo.22302105](https://doi.org/10.5281/zenodo.22302105)
+🔑 Introduced the Impersonation Ambiguity Index (IAI), scoring inputs across four independent axes to turn high LLM-judge disagreement into a usable security signal rather than annotation noise.
+
+`LLM Security` `Impersonation Detection` `Role-Play Safety` `LLM-as-a-Judge`
+
+<br>
+
+**Traceable Autonomy: Identity, Scope Enforcement, and Containment in a Closed-Loop Red/Blue Agent Pipeline**
+
+📍 Preprint — Zenodo
+👤 Abdallah M. Abughallous
+🔗 DOI: [10.5281/zenodo.22847266](https://doi.org/10.5281/zenodo.22847266)
+🔑 First non-simulated operationalization of OWASP AIMM's Traceability pillar — SPIFFE-style agent identity, enforced per-agent scope, and a hash-chained audit log across a real closed-loop agent pipeline. Surfaced an emergent finding: automated patching that silently broke legitimate app functionality, motivating a post-patch Attestation-style validation gate.
+
+`Agentic AI Security` `AIMM` `Traceability` `Scoped Delegation` `Autonomous Red Teaming` `SPIFFE`
+
 ---
 
 ### ⚔️ Offensive / Defensive Security Projects
 
 | Project | Stack | Highlight |
 |---|---|---|
-| 🐝 **OWASP FIASSE** | `Python` `OWASP` `SSEM` | [![OWASP](https://img.shields.io/badge/OWASP-Contributor-7aa2f7?style=flat-square&logo=owasp&logoColor=white)](https://github.com/OWASP/FIASSE) <br> Contributed Python security code examples showcasing SSEM attributes merged into `main` |
-| 📦 **OWASP CVE Lite CLI** | `TypeScript` `OWASP` `SBOM` | [![OWASP](https://img.shields.io/badge/OWASP-Contributor-7aa2f7?style=flat-square&logo=owasp&logoColor=white)](https://github.com/OWASP/cve-lite-cli) <br> Bumped the default CycloneDX SBOM output from 1.4 to 1.6, validated against the official schema and merged into `main` |
-| 🔎 **ThreatLens** | `Python` `SOAR` `REST APIs` | [![Awesome](https://img.shields.io/badge/Awesome--OSINT-Featured-7aa2f7?style=flat-square&logo=github)](https://github.com/jivoi/awesome-osint) <br> IOC enrichment across 6 APIs (AbuseIPDB, VirusTotal, Shodan, OTX, URLScan, NVD) |
-| 🧬 **Red/Blue Team Lab** | `Flask` `Splunk` `Kali Linux` | Exploited & patched SQLi/XSS/Cmd-Injection on a 3-VM lab + Splunk HEC detections |
+| 🐝 **OWASP FIASSE** | `Python` `OWASP` `SSEM` | [![OWASP](https://img.shields.io/badge/OWASP-Contributor-7aa2f7?style=flat-square&logo=owasp&logoColor=white)](https://github.com/OWASP/FIASSE) <br> Contributed Python security code examples showcasing SSEM attributes — merged into `main` |
+| 📦 **OWASP CVE Lite CLI** | `TypeScript` `OWASP` `SBOM` | [![OWASP](https://img.shields.io/badge/OWASP-Contributor-7aa2f7?style=flat-square&logo=owasp&logoColor=white)](https://github.com/OWASP/cve-lite-cli) <br> Bumped the default CycloneDX SBOM output from 1.4 to 1.6, validated against the official schema — merged into `main` |
+| 🧠 **Microsoft PyRIT** | `Python` `GenAI Red-Teaming` | [![Merged](https://img.shields.io/badge/PR-Merged-2ac3de?style=flat-square&logo=github)](https://github.com/microsoft/PyRIT/pull/2468) <br> Added the SemGuard Arabic Security Dataset loader (807 examples) to Microsoft's GenAI red-teaming framework (4.5K★, 892 forks) — merged after multiple rounds of maintainer review, landing with 14 passing unit tests |
+| 🔎 **ThreatLens** | `Python` `Vulnerability Triage` `SIEM` | [![Awesome](https://img.shields.io/badge/Awesome--OSINT-Featured-7aa2f7?style=flat-square&logo=github)](https://github.com/jivoi/awesome-osint) <br> Threat-intel CLI unifying 8 OSINT/vuln feeds (incl. CISA KEV + EPSS); generates auditable Patch/Isolate/Monitor decision cards, exports to Splunk/Elastic/Sentinel, produces SHA-256 chain-of-custody evidence packs — 155 passing tests + CI |
+| 🧬 **Red/Blue Team Lab (NCSC Capstone)** | `Flask` `Splunk` `Kali Linux` | Exploited & patched SQLi/XSS/Cmd-Injection on a 3-VM lab + Splunk HEC detections |
 | 📡 **NIDS/NIPS** | `Snort 3` | Custom rules detecting & blocking live attack traffic |
 | 🌐 **Enterprise Network (CCNA)** | `OSPF` `VLANs` `Packet Tracer` | Smart Campus graduation project — enterprise routing & switching security |
 | 🛣️ **Rased** | `YOLOv11` `TFLite` | Road-defect computer-vision detector — Crown Prince Award entry |
@@ -86,7 +111,7 @@
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdaullahAG&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27" />
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdaullahAG&theme=tokyonight&hide_border=true" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=AbdaullahAG&theme=tokyonight&hide_border=true" />
 
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=AbdaullahAG&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 
