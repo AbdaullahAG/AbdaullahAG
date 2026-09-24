@@ -13,22 +13,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--9492--4735-a6ce39?style=flat-square&logo=orcid&logoColor=white&labelColor=1a1b27)](https://orcid.org/0009-0001-9492-4735)
 [![IEEE Xplore](https://img.shields.io/badge/IEEE%20Xplore-Read%20Paper-00629B?style=flat-square&logo=ieee&logoColor=white&labelColor=1a1b27)](https://doi.org/10.1109/AEECT69724.2026.11657880)
 
-<br>
-
-![Open to Work](https://img.shields.io/badge/Open%20to-Cybersecurity%20%26%20AI%20Security%20Roles-9ece6a?style=flat-square&labelColor=1a1b27)
-![Location](https://img.shields.io/badge/Based%20in-Amman%2C%20Jordan-7aa2f7?style=flat-square&logo=googlemaps&logoColor=white&labelColor=1a1b27)
-
 </div>
-
----
-
-### 🎯 Currently
-
-```text
-focus.now()      → OWASP AIMM Section 14 · Arabic LLM Security research
-learning.next()  → Expanding ThreatLens into a lightweight SOAR playbook engine
-open_to()        → New-grad / junior roles in Cybersecurity, AppSec & AI Security
-```
 
 ---
 
@@ -125,6 +110,10 @@ open_to()        → New-grad / junior roles in Cybersecurity, AppSec & AI Secur
 </p>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdaullahAG&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27" />
+
+<p align="center">
+<img src="https://commitpulse.vercel.app/api/streak?user=AbdaullahAG&bg=1a1b27&accent=7aa2f7&text=e0e0e0&radius=8&size=large" alt="3D contribution monolith" />
+</p>
 
 <img width="100%" src="https://streak-stats.demolab.com/?user=AbdaullahAG&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true" />
 
