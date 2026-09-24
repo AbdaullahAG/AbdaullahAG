@@ -17,32 +17,3 @@ jobs:
         with:
           config: .github/cortex.yml
           github_token: ${{ secrets.GITHUB_TOKEN }}
-EOF
-
-cat > /home/claude/cortex-setup/.github/cortex.yml << 'EOF'
-# Cortex config — Abdallah Abughallous
-# Only the animated skill-badges widget is enabled on purpose:
-# a professional, tasteful upgrade over static shields.io icons,
-# without the "neon brain" extras that don't fit a security profile.
-
-identity:
-  name: "Abdallah Abughallous"
-  github_user: "AbdaullahAG"
-  tagline: "Cybersecurity Engineer · AI/LLM Security Researcher"
-
-brand:
-  palette: "minimal"   # subtle, professional accent instead of full neon-rainbow
-
-cards:
-  badges:
-    enabled: true
-    shape: pill
-    layout: row
-    animation: stagger
-    items:
-      - { icon: python,      label: "Python",       value: "Advanced" }
-      - { icon: flask,       label: "Flask",        value: "Advanced" }
-      - { icon: linux,       label: "Linux",        value: "Daily" }
-      - { icon: docker,      label: "Docker",       value: "Working" }
-      - { icon: azure,       label: "Azure",        value: "Certified" }
-      - { icon: git,         label: "Git",          value: "Daily" }
