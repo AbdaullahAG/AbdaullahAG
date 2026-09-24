@@ -10,10 +10,11 @@ identity:
 
 brand:
   palette: "minimal"   # subtle, professional accent instead of full neon-rainbow
+ 
+streak:
+  enabled: false
 
 cards:
-streak:
-    enabled: false
   badges:
     enabled: true
     shape: pill
