@@ -112,7 +112,7 @@
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdaullahAG&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27" />
 
 <p align="center">
-<img src="https://commitpulse.vercel.app/api/streak?user=AbdaullahAG&bg=1a1b27&accent=7aa2f7&text=e0e0e0&radius=8&size=large" alt="3D contribution monolith" />
+<img src="https://github-readme-stats.vercel.app/api?username=AbdaullahAG&theme=tokyonight&hide_border=true&show_icons=true" />
 </p>
 
 <img width="100%" src="https://streak-stats.demolab.com/?user=AbdaullahAG&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true" />
