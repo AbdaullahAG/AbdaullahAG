@@ -103,12 +103,11 @@
 | 🛣️ **Rased** | `YOLOv11` `TFLite` | Road-defect computer-vision detector — Crown Prince Award entry |
 
 ---
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=AbdaullahAG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdaullahAG&theme=tokyonight&hide_border=true&hide=html,css" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbdaullahAG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdaullahAG&theme=tokyonight&hide_border=true&layout=donut" />
 </p>
 
 <p align="center">
