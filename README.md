@@ -103,16 +103,20 @@
 | 🛣️ **Rased** | `YOLOv11` `TFLite` | Road-defect computer-vision detector — Crown Prince Award entry |
 
 ---
+
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbdaullahAG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdaullahAG&theme=tokyonight&hide_border=true&layout=donut" />
+<p align="left">
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=AbdaullahAG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://metrics.lecoq.io/AbdaullahAG?base=&base.indepth=false&languages=true&languages.limit=15&languages.charts=true&languages.ignored=html,css&languages.details=bytes&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AbdaullahAG&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true&card_width=400" alt="Total Contributions" />
+<img src="https://streak-stats.demolab.com/?user=AbdaullahAG&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true&card_width=350" alt="Total Contributions" />
 </p>
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=AbdaullahAG&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+
 ---
 
 ### 🐍 Contribution Snake
