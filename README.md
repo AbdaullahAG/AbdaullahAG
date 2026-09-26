@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=180&section=header&animation=fadeIn" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/AbdaullahAG/AbdaullahAG/main/assets/name-glow.svg" alt="Abdallah Abughallous" width="480"/>
+<img src="https://cdn.jsdelivr.net/gh/AbdaullahAG/AbdaullahAG@main/assets/name-glow.svg" alt="Abdallah Abughallous" width="480"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=620&lines=Cybersecurity+%26+Network+Engineer;AI+%26+LLM+Security+Researcher;Building+SemGuard+%7C+ThreatLens+%7C+tawfeer-llm;Red+Team+%E2%9A%94%EF%B8%8F+%7C+Blue+Team+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 
@@ -111,20 +111,24 @@
 <img width="49%" src="https://metrics.lecoq.io/AbdaullahAG?base=&base.indepth=false&languages=true&languages.limit=15&languages.charts=true&languages.ignored=html,css&languages.details=bytes&theme=tokyonight" />
 </p>
 
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=AbdaullahAG&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true&card_width=350" alt="Total Contributions" />
+</p>
+
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=AbdaullahAG&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 
 ---
 
 ### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/AbdaullahAG/AbdaullahAG/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://cdn.jsdelivr.net/gh/AbdaullahAG/AbdaullahAG@output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 ---
 
 ### 🧰 Tech Stack
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/AbdaullahAG/AbdaullahAG/main/assets/tech-marquee.svg" alt="Tech stack" width="100%"/>
+<img src="https://cdn.jsdelivr.net/gh/AbdaullahAG/AbdaullahAG@main/assets/tech-marquee.svg" alt="Tech stack" width="100%"/>
 </p>
 
 <table>
