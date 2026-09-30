@@ -4,7 +4,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/AbdaullahAG/AbdaullahAG@main/assets/name-glow.svg" alt="Abdallah Abughallous" width="480"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=620&lines=Cybersecurity+%26+Network+Engineer;AI+%26+LLM+Security+Researcher;Building+SemGuard+%7C+ThreatLens+%7C+tawfeer-llm;Red+Team+%E2%9A%94%EF%B8%8F+%7C+Blue+Team+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=620&lines=Cybersecurity+%26+Network+Engineer; ;OWASP+Amman+Chapter+Leader;AI+%26+LLM+Security+Researcher;Building+SemGuard+%7C+ThreatLens+%7C+tawfeer-llm;Red+Team+%E2%9A%94%EF%B8%8F+%7C+Blue+Team+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 
 <br>
 
@@ -14,13 +14,14 @@
 [![GitHub](https://img.shields.io/badge/GitHub-AbdaullahAG-2ac3de?style=flat-square&logo=github&logoColor=white&labelColor=1a1b27)](https://github.com/AbdaullahAG)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--9492--4735-a6ce39?style=flat-square&logo=orcid&logoColor=white&labelColor=1a1b27)](https://orcid.org/0009-0001-9492-4735)
 [![IEEE Xplore](https://img.shields.io/badge/IEEE%20Xplore-Read%20Paper-00629B?style=flat-square&logo=ieee&logoColor=white&labelColor=1a1b27)](https://doi.org/10.1109/AEECT69724.2026.11657880)
+[![OWASP Amman](https://img.shields.io/badge/OWASP-Amman%20Chapter-7aa2f7?style=flat-square&logo=owasp&logoColor=white&labelColor=1a1b27)](https://owasp.org/chapters/amman)
 
 </div>
 
 ---
 
 ### 🛡️ `whoami`
-
+- 🐝 **Chapter Leader — OWASP Amman Chapter** — reactivated the official chapter in 2026 to build an open community for developers, security professionals & students in Jordan
 - 🎓 Computer Networks & Cybersecurity Graduate | WISE University
 - 💻 Former Trainee @ Jordan **National Cyber Security Center (NCSC)** — Masar Program (30+ labs across Red/Blue/GRC + capstone project)
 - 🧑‍💻 Section Lead & Co-Author — OWASP GenAI Security Project, Agentic Identity Maturity Model (AIMM)
